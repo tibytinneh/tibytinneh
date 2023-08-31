@@ -5,12 +5,10 @@
 </a>
 
 ## About Me
-I am a computer science student in 42 Singapore SUTD. 
+I am a computer science student in 42 Singapore SUTD.
+
 I'm interested in becoming a contributing member of society.
 
-
-
-### It's trying its best
 
 
 
@@ -28,7 +26,7 @@ This section concerns all my technical skills which does not involve programming
 - Proficiency in Adobe Lightroom & Adobe Photoshop
 - Social media specialist across diverse platforms (real and true)
 
-
+### It's trying its best
 
 <!--
 **tibytinneh/tibytinneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
