@@ -3,11 +3,12 @@
 <a href="https://i.kym-cdn.com/entries/icons/facebook/000/034/772/Untitled-1.jpg">
   <img src="https://i.kym-cdn.com/entries/icons/facebook/000/034/772/Untitled-1.jpg" alt="catto" width="300" align="left">
 </a>
-### It's trying its best
 
 ## About Me
 I am a computer science student in 42 Singapore SUTD. 
 I'm interested in becoming a contributing member of society.
+
+### It's trying its best
 
 
 <!--
