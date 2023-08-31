@@ -12,6 +12,8 @@ I'm interested in becoming a contributing member of society.
 
 
 
+
+
 ## Programming Knowledge
 
 This section concerns all my technical skills involving programming, which honestly isn't much at the moment.
