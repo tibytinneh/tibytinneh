@@ -20,7 +20,7 @@ This section concerns all my technical skills involving programming, which hones
 - Shell-scripting
 - C
 
-## Creative Skills beyond programming
+## Non-Programming Skills
 
 This section concerns all my technical skills which does not involve programming. 
 
