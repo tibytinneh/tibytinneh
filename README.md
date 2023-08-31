@@ -17,10 +17,18 @@ I'm interested in becoming a contributing member of society.
 ## Programming Knowledge
 
 This section concerns all my technical skills involving programming, which honestly isn't much at the moment.
+- Shell-scripting
+- C
 
-## Non-Programming Skills
+## Creative Skills beyond programming
 
 This section concerns all my technical skills which does not involve programming. 
+
+- Well versed with photography equipment (proud sony alpha stan)
+- Proficiency in Adobe Lightroom & Adobe Photoshop
+- Social media specialist across diverse platforms (real and true)
+
+
 
 <!--
 **tibytinneh/tibytinneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
