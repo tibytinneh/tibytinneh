@@ -8,8 +8,19 @@
 I am a computer science student in 42 Singapore SUTD. 
 I'm interested in becoming a contributing member of society.
 
+
+
 ### It's trying its best
 
+
+
+## Programming Knowledge
+
+This section concerns all my technical skills involving programming, which honestly isn't much at the moment.
+
+## Non-Programming Skills
+
+This section concerns all my technical skills which does not involve programming. 
 
 <!--
 **tibytinneh/tibytinneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
