@@ -1,4 +1,4 @@
-# Hello! I'm Amanda!
+# Hello! I'm tinii!
 
 <a href="https://i.kym-cdn.com/entries/icons/facebook/000/034/772/Untitled-1.jpg">
   <img src="https://i.kym-cdn.com/entries/icons/facebook/000/034/772/Untitled-1.jpg" alt="catto" width="250" align="left">
